@@ -5,9 +5,9 @@ public class Main {
 
 	public static void main(String[] args) {
 	
-        String fName = "Brad";
+        String fName = "Bradly";
         String lName = "Pitted";
-        String address = "555 Hollywood ave.";
+        String address = "5555 Hollywood ave.";
         String city = "Los Angeles";
         String zipCode = "90210";
 
